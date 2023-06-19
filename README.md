@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Developing
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on working together
-- 📫 How to reach me ...
+- 📫 You can reach me through LinkedIn with the same name.
 - 
 
 <!---
