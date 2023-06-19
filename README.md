@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @invinciblesp03
-- 👀 I’m interested in Programming and Software Developing
+- 👀 I’m interested in Programming and Software Development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on working together
 - 📫 You can reach me through LinkedIn with the same name.
