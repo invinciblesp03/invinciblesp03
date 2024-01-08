@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SP
 - 👀 I’m interested in Programming and Software Development
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and python
 - 💞️ I’m open to work together for impactful solutions
 - 📫 You can reach me through LinkedIn with the same name.
 - 
