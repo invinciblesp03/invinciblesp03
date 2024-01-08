@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @invinciblesp03
+- 👋 Hi, I’m SP
 - 👀 I’m interested in Programming and Software Development
 - 🌱 I’m currently learning C++
 - 💞️ I’m open to work together for impactful solutions
